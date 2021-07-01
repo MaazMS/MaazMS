@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazMS&show_icons=true&theme=cobalt&hide=contribs,prs) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazMS&hide=java&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazMS&hide=java&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
