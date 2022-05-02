@@ -1,7 +1,7 @@
 ### Hi  MaazMS 👋
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20and%20Golang%20developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20and%20Golang%20developer&center=true&width=380&height=45"></a>
 </p>
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github     
