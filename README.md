@@ -1,25 +1,20 @@
 ### Hi  MaazMS 👋
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20and%20Golang%20developer&center=true&width=380&height=45"></a>
-</p>
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github     
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazMS&show_icons=true&theme=cobalt&hide=contribs,prs) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazMS&hide=java&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/MaazMS"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=MaazMS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazMS&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>   
 
-<!--
-**MaazMS/MaazMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Top Repositories
+
+
+<a href="https://github.com/MaazMS/Golang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazMS&repo=Golang&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</a>
+<a href="https://github.com/MaazMS/Kubernetes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazMS&repo=Kubernetes&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</a>
+
+<br />
+<br />
